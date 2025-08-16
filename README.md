@@ -1,9 +1,10 @@
 ﻿# HealthVitals-AI
  
  # Pratham Wadhwani
- # Smit patel
+ # Smit Patel
  # Vivek Prajapati
  # Harshil Patel
+
 
 
 
